@@ -1,2 +1,2 @@
 # robo-friends
-This is a react app creted with vite app
+This is a react app creted with vite
