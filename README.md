@@ -1,2 +1,2 @@
-# baby-projects
-This repository is collection of small open-source projects created by developervick.
+# robo-friends
+This is a react app creted with vite
