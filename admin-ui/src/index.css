@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer base {
+    .spc {
+        @apply m-2 p-2;
+    }
+}
